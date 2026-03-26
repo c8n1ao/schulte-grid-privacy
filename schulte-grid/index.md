@@ -77,7 +77,9 @@
 
 ### 七、联系我们
 
-如有任何隐私相关问题，请通过 App Store 页面的开发者联系方式与我们联系。
+如有任何隐私相关问题，请通过以下方式联系我们：
+
+📧 micheliafigo2888@gmail.com
 
 ---
 ---
@@ -153,4 +155,6 @@ We will notify you of significant changes through an in-app notice.
 
 ### 7. Contact
 
-For privacy inquiries, please contact us via the developer contact information on our App Store listing.
+For privacy inquiries, please contact us at:
+
+📧 micheliafigo2888@gmail.com
